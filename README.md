@@ -29,7 +29,7 @@
 
 ## 解密：什么是 ChatGPT 中文版【国内直连版】？
 
-简单来说，**ChatGPT 中文版【国内直连版】** 指的是一系列**无需特殊网络设置 (无需****)**，就能在中国大陆地区**直接访问**的第三方平台或服务。这些平台通过调用 OpenAI (或其他 AI 公司) 的 API，为用户提供类似甚至集成了 **ChatGPT-4 / ChatGPT-4o** 核心能力的 AI 体验。
+简单来说，**ChatGPT 中文版【国内直连版】** 指的是一系列**无需特殊网络设置 (无需翻墙**)**，就能在中国大陆地区**直接访问**的第三方平台或服务。这些平台通过调用 OpenAI (或其他 AI 公司) 的 API，为用户提供类似甚至集成了 **ChatGPT-4 / ChatGPT-4o** 核心能力的 AI 体验。
 
 它们的主要特点包括：
 
@@ -71,7 +71,6 @@
 | **[gptcat.cc](https://gptcat.cc)** | **GPT-4o (原生绘图/语音/视频)**, GPT-4, Claude 3, DeepSeek | **有免费额度**   | **功能最全**, GPT-4o 体验佳, 多模态交互                 |
 | **[snakegpt.chat](https://snakegpt.chat)** | **GPT-4/4o**, DeepSeek, **MJ 绘图** | **有免费额度**   | **老牌稳定**, 内置 MJ 绘图强大, 模型覆盖广              |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5               | 有免费额度       | 提供开发者 API, 适合集成                              |
-| [FreeGPTs](https://github.com/FreeGPTs/FreeGPTs.github.io) | 不固定 (聚合类)              | 部分节点免费     | GitHub 项目, 聚合多种免费或第三方资源 (稳定性不一)       |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5 (主力), 可能少量 4o | 有免费额度       | 界面简洁, 适合基础对话                                |
 | *(请注意)*                    | *模型支持和免费政策可能变动* | *请以实际为准* | *使用第三方平台请务必注意下方【安全规范】*               |
 
